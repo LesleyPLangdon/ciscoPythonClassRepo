@@ -7,19 +7,18 @@
 # ──────────────────────────────────────────────
 # Type this line and run your script with: python day1_exercise.py
 
-print("Hello, network world!")
+
 
 # PART 2 - Variables (do this with the class)
 # ────────────────────────────────────────────
 # Variables store information. In networking you work with data like this
 # all the time - device names, IPs, port counts.
 
-device_name = "Router-1"
-ip_address = "192.168.1.1"
-interfaces = 24
+
+
 
 # f-strings let you drop variables into text using curly braces { }
-print(f"{device_name} is at {ip_address} and has {interfaces} ports")
+
 
 
 # ─────────────────────────────────────────────────────────────────────────────
